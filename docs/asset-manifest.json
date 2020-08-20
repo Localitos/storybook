@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "./static/css/main.2a839180.chunk.css",
-    "main.js": "./main.5cec6104cfa86edfb704.bundle.js",
+    "main.js": "./main.a709f75a79edf2e5b05b.bundle.js",
     "main.css.map": "./static/css/main.2a839180.chunk.css.map",
-    "main.js.map": "./main.5cec6104cfa86edfb704.bundle.js.map",
-    "runtime~main.js": "./runtime~main.5cec6104cfa86edfb704.bundle.js",
-    "runtime~main.js.map": "./runtime~main.5cec6104cfa86edfb704.bundle.js.map",
-    "vendors~main.js": "./vendors~main.5cec6104cfa86edfb704.bundle.js",
-    "vendors~main.js.map": "./vendors~main.5cec6104cfa86edfb704.bundle.js.map",
+    "main.js.map": "./main.a709f75a79edf2e5b05b.bundle.js.map",
+    "runtime~main.js": "./runtime~main.a709f75a79edf2e5b05b.bundle.js",
+    "runtime~main.js.map": "./runtime~main.a709f75a79edf2e5b05b.bundle.js.map",
+    "vendors~main.js": "./vendors~main.a709f75a79edf2e5b05b.bundle.js",
+    "vendors~main.js.map": "./vendors~main.a709f75a79edf2e5b05b.bundle.js.map",
     "iframe.html": "./iframe.html",
-    "precache-manifest.d7ff379d71917b7193314021ce31e16b.js": "./precache-manifest.d7ff379d71917b7193314021ce31e16b.js",
+    "precache-manifest.94b37b01946262b12a63104a9a500f41.js": "./precache-manifest.94b37b01946262b12a63104a9a500f41.js",
     "service-worker.js": "./service-worker.js",
     "static/media/Localyze_Logo_Pin_lila.png": "./static/media/Localyze_Logo_Pin_lila.0788b80a.png",
     "static/media/index.scss": "./static/media/yantramanav-v5-latin-regular.c31cb91e.woff2",
@@ -18,12 +18,12 @@
     "static/media/logo-localize.png": "./static/media/logo-localize.44e6f9d4.png",
     "static/media/logo-localyze2.png": "./static/media/logo-localyze2.5a3cb238.png",
     "static/media/logo-localyze3.png": "./static/media/logo-localyze3.ed75dd4c.png",
-    "vendors~main.5cec6104cfa86edfb704.bundle.js.LICENSE.txt": "./vendors~main.5cec6104cfa86edfb704.bundle.js.LICENSE.txt"
+    "vendors~main.a709f75a79edf2e5b05b.bundle.js.LICENSE.txt": "./vendors~main.a709f75a79edf2e5b05b.bundle.js.LICENSE.txt"
   },
   "entrypoints": [
-    "runtime~main.5cec6104cfa86edfb704.bundle.js",
-    "vendors~main.5cec6104cfa86edfb704.bundle.js",
+    "runtime~main.a709f75a79edf2e5b05b.bundle.js",
+    "vendors~main.a709f75a79edf2e5b05b.bundle.js",
     "static/css/main.2a839180.chunk.css",
-    "main.5cec6104cfa86edfb704.bundle.js"
+    "main.a709f75a79edf2e5b05b.bundle.js"
   ]
 }
