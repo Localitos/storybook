@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "./static/css/main.2a839180.chunk.css",
-    "main.js": "./main.d48c2e1cb6bb4c65d4df.bundle.js",
+    "main.js": "./main.b0a65ee3f06ffcd68619.bundle.js",
     "main.css.map": "./static/css/main.2a839180.chunk.css.map",
-    "main.js.map": "./main.d48c2e1cb6bb4c65d4df.bundle.js.map",
-    "runtime~main.js": "./runtime~main.d48c2e1cb6bb4c65d4df.bundle.js",
-    "runtime~main.js.map": "./runtime~main.d48c2e1cb6bb4c65d4df.bundle.js.map",
-    "vendors~main.js": "./vendors~main.d48c2e1cb6bb4c65d4df.bundle.js",
-    "vendors~main.js.map": "./vendors~main.d48c2e1cb6bb4c65d4df.bundle.js.map",
+    "main.js.map": "./main.b0a65ee3f06ffcd68619.bundle.js.map",
+    "runtime~main.js": "./runtime~main.b0a65ee3f06ffcd68619.bundle.js",
+    "runtime~main.js.map": "./runtime~main.b0a65ee3f06ffcd68619.bundle.js.map",
+    "vendors~main.js": "./vendors~main.b0a65ee3f06ffcd68619.bundle.js",
+    "vendors~main.js.map": "./vendors~main.b0a65ee3f06ffcd68619.bundle.js.map",
     "iframe.html": "./iframe.html",
-    "precache-manifest.063a6712f3e94ea6f86cbde35d1a0bf8.js": "./precache-manifest.063a6712f3e94ea6f86cbde35d1a0bf8.js",
+    "precache-manifest.acea6184302a04b7496095106144d5cc.js": "./precache-manifest.acea6184302a04b7496095106144d5cc.js",
     "service-worker.js": "./service-worker.js",
     "static/media/Localyze_Logo_Pin_lila.png": "./static/media/Localyze_Logo_Pin_lila.0788b80a.png",
     "static/media/MockPdf.pdf": "./static/media/MockPdf.63173d89.pdf",
@@ -19,12 +19,12 @@
     "static/media/logo-localize.png": "./static/media/logo-localize.44e6f9d4.png",
     "static/media/logo-localyze2.png": "./static/media/logo-localyze2.5a3cb238.png",
     "static/media/logo-localyze3.png": "./static/media/logo-localyze3.ed75dd4c.png",
-    "vendors~main.d48c2e1cb6bb4c65d4df.bundle.js.LICENSE.txt": "./vendors~main.d48c2e1cb6bb4c65d4df.bundle.js.LICENSE.txt"
+    "vendors~main.b0a65ee3f06ffcd68619.bundle.js.LICENSE.txt": "./vendors~main.b0a65ee3f06ffcd68619.bundle.js.LICENSE.txt"
   },
   "entrypoints": [
-    "runtime~main.d48c2e1cb6bb4c65d4df.bundle.js",
-    "vendors~main.d48c2e1cb6bb4c65d4df.bundle.js",
+    "runtime~main.b0a65ee3f06ffcd68619.bundle.js",
+    "vendors~main.b0a65ee3f06ffcd68619.bundle.js",
     "static/css/main.2a839180.chunk.css",
-    "main.d48c2e1cb6bb4c65d4df.bundle.js"
+    "main.b0a65ee3f06ffcd68619.bundle.js"
   ]
 }
