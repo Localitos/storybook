@@ -1,33 +1,34 @@
 {
   "files": {
-    "main.css": "./static/css/main.148014c4.chunk.css",
-    "main.js": "./main.601235d6b10e680ace58.bundle.js",
-    "main.css.map": "./static/css/main.148014c4.chunk.css.map",
-    "main.js.map": "./main.601235d6b10e680ace58.bundle.js.map",
-    "runtime~main.js": "./runtime~main.601235d6b10e680ace58.bundle.js",
-    "runtime~main.js.map": "./runtime~main.601235d6b10e680ace58.bundle.js.map",
-    "vendors~main.css": "./static/css/vendors~main.f524894f.chunk.css",
-    "vendors~main.js": "./vendors~main.601235d6b10e680ace58.bundle.js",
-    "vendors~main.css.map": "./static/css/vendors~main.f524894f.chunk.css.map",
-    "vendors~main.js.map": "./vendors~main.601235d6b10e680ace58.bundle.js.map",
+    "main.css": "./static/css/main.62221f97.chunk.css",
+    "main.js": "./main.a213d1481b490d600c04.bundle.js",
+    "main.css.map": "./static/css/main.62221f97.chunk.css.map",
+    "main.js.map": "./main.a213d1481b490d600c04.bundle.js.map",
+    "runtime~main.js": "./runtime~main.a213d1481b490d600c04.bundle.js",
+    "runtime~main.js.map": "./runtime~main.a213d1481b490d600c04.bundle.js.map",
+    "vendors~main.css": "./static/css/vendors~main.144e3d4c.chunk.css",
+    "vendors~main.js": "./vendors~main.a213d1481b490d600c04.bundle.js",
+    "vendors~main.css.map": "./static/css/vendors~main.144e3d4c.chunk.css.map",
+    "vendors~main.js.map": "./vendors~main.a213d1481b490d600c04.bundle.js.map",
     "iframe.html": "./iframe.html",
-    "precache-manifest.25441ba0cb1cd88accf6145014cc2348.js": "./precache-manifest.25441ba0cb1cd88accf6145014cc2348.js",
+    "precache-manifest.e69e8e2799d86effda764fe85d46b5e7.js": "./precache-manifest.e69e8e2799d86effda764fe85d46b5e7.js",
     "service-worker.js": "./service-worker.js",
     "static/media/Localyze_Logo_Pin_lila.png": "./static/media/Localyze_Logo_Pin_lila.0788b80a.png",
     "static/media/MockPdf.pdf": "./static/media/MockPdf.63173d89.pdf",
     "static/media/PartnerService.png": "./static/media/PartnerService.09e03d07.png",
+    "static/media/lamas4ever.png": "./static/media/lamas4ever.6e6d8e3a.png",
     "static/media/index.scss": "./static/media/yantramanav-v5-latin-regular.c31cb91e.woff2",
     "static/media/localyze-icon-green.png": "./static/media/localyze-icon-green.faccc966.png",
     "static/media/logo-localize.png": "./static/media/logo-localize.44e6f9d4.png",
     "static/media/logo-localyze2.png": "./static/media/logo-localyze2.5a3cb238.png",
     "static/media/logo-localyze3.png": "./static/media/logo-localyze3.ed75dd4c.png",
-    "vendors~main.601235d6b10e680ace58.bundle.js.LICENSE.txt": "./vendors~main.601235d6b10e680ace58.bundle.js.LICENSE.txt"
+    "vendors~main.a213d1481b490d600c04.bundle.js.LICENSE.txt": "./vendors~main.a213d1481b490d600c04.bundle.js.LICENSE.txt"
   },
   "entrypoints": [
-    "runtime~main.601235d6b10e680ace58.bundle.js",
-    "static/css/vendors~main.f524894f.chunk.css",
-    "vendors~main.601235d6b10e680ace58.bundle.js",
-    "static/css/main.148014c4.chunk.css",
-    "main.601235d6b10e680ace58.bundle.js"
+    "runtime~main.a213d1481b490d600c04.bundle.js",
+    "static/css/vendors~main.144e3d4c.chunk.css",
+    "vendors~main.a213d1481b490d600c04.bundle.js",
+    "static/css/main.62221f97.chunk.css",
+    "main.a213d1481b490d600c04.bundle.js"
   ]
 }
